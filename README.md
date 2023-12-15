@@ -1,2 +1,2 @@
 # Ontologies
-## A repository for linked data ontologies
+A repository for linked data ontologies
